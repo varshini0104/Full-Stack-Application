@@ -1,0 +1,12 @@
+# Spring Boot
+target/
+*.log
+*.class
+
+# React
+node_modules/
+build/
+
+# IDE
+.vscode/
+.idea/

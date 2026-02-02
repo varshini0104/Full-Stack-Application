@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Fullstackwebapplication&apos; to &apos;Studentsystem&apos;&#x0D;&#x0A;- Original element: &apos;Fullstackwebapplication&apos;&#x0D;&#x0A;- Renamed element: &apos;Fullstackwebapplication&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Fullstackwebapplication&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Fullstackwebapplication" name="Studentsystem" references="true" stamp="1769768602304" version="1.0"/>
+</session>
